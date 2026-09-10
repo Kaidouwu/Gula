@@ -20,7 +20,7 @@
     <java.version>25</java.version>
     <maven.compiler.source>${java.version}</maven.compiler.source>
     <maven.compiler.target>${java.version}</maven.compiler.target>
-    <paper.api.version>26.1.build.1</paper.api.version>
+    <paper.api.version>[26.1.2.build,)</paper.api.version>
 </properties>
          
   <dependencies>
