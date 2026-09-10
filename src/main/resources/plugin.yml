@@ -1,0 +1,6 @@
+name: GluttonyArchbishop
+version: 1.0.0
+main: com.kaidouwu.gluttony.GluttonyArchbishop
+api-version: '1.21'
+author: Kaidou
+description: Custom Sin Archbishop of Gluttony
